@@ -7,7 +7,7 @@ math stats s24
 |Week 1| 1/23 & 1/25 | Intro & Review | |  |
 |Week 2| 1/30 & 2/1  | Maximum Likelihood Estimation | |  |
 |Week 3| 2/6 & 2/8  | MLE Properties & Method of Moments | |  |
-|Week 4| 2/13 & 2/15 | Method of Moments, Bayesian Estimation, & Exam 1| |  |
+|Week 4| 2/13 & 2/15 | Method of Moments, Bayesian Estimation & Exam 1| |  |
 |Week 5| 2/20 & 2/20 | Bayesian Estimation & Sufficiency | |  |
 |Week 6| 2/27 & 2/29 | Sufficiency, Admissibility, & Rao-Blackwellization | |  |
 |Week 7| 3/5 & 3/7 |  Unbiasedness & MSE | | |
