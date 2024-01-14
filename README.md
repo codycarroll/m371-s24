@@ -10,8 +10,8 @@ math stats s24
 |Week 4| 2/13 & 2/15 | Method of Moments, Bayesian Estimation, & Exam 1| |  |
 |Week 5| 2/20 & 2/20 | Bayesian Estimation & Sufficiency | |  |
 |Week 6| 2/27 & 2/29 | Sufficiency, Admissibility, & Rao-Blackwellization | |  |
-|Week 7| 3/5 & 3/7 | | Unbiasedness & MSE |  |
-|Week 8 (Spring Break)| 3/11-3/15 | | |  |
+|Week 7| 3/5 & 3/7 |  Unbiasedness & MSE | | |
+|Week 8 (Spring Break)| 3/11-3/15 | Have fun! | |  |
 |Week 9| 3/19 & 3/21 | Fisher Information & the Cramer-Rao Lower Bound| |  |
 |Week 10| 3/26 & 3/28 | Exam 2 & UMVUEs | |  |
 |Week 11| 4/2 & 4/4 | Sampling Distribution & Modes of Convergence| |  |
