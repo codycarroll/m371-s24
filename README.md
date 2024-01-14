@@ -15,7 +15,7 @@ math stats s24
 |Week 9| 3/19 & 3/21 | Fisher Information & the Cramer-Rao Lower Bound| |  |
 |Week 10| 3/26 & 3/28 | Exam 2 & UMVUEs | |  |
 |Week 11| 4/2 & 4/4 | Sampling Distribution & Modes of Convergence| |  |
-|Week 12| 4/9 & 4/11 | t/&chi;^2/F distributions & Slutsky's Theorem| |  |
+|Week 12| 4/9 & 4/11 | t/ &chi;2 /F distributions & Slutsky's Theorem| |  |
 |Week 13| 4/16 & 4/18 |Continuous Mapping Theorem, Delta Method | |  |
 |Week 14| 4/23 & 4/25 | Interval Estimation, Pivots, Credible Intervals | |  |
 |Week 15| 4/30 & 5/2 | Likelihood Ratio Tests & Exam 3 | |  |
