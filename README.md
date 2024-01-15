@@ -19,7 +19,7 @@ The topics we aim to cover will include:
 - Point and Interval Estimation (MLEs, Method of Moments, Pivots)
 - Bayesian Methods
 - Sufficiency, Efficiency, and Fisher Information
-- Modes of Convergence & Asymptotic Theorems
+- Modes of Convergence & Asymptotic Theorems (Slutsky, Continuous Mapping, the Delta Method)
 - Likelihood Ratio Tests & Properties
 
 ## Course Tenets:
