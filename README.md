@@ -1,5 +1,4 @@
-# m371-s24
-math stats s24
+# M371 - Statistics & Applications
 
 
 |Week | Dates | Topics | Reading | Notable Events |
