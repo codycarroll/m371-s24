@@ -4,7 +4,7 @@ math stats s24
 
 |Week | Dates | Topics | Reading | Notable Events |
 | :---  | :---:  | :---:  | :---:  | :---: |
-|Week 1| 1/23 & 1/25 | Intro, Review & Master Formulas | Review Handout, Section 1 in notes |  |
+|Week 1| 1/23 & 1/25 | Intro, Review & Master Formulas | Review Handout;Section 1 in notes |  |
 |Week 2| 1/30 & 2/1  | Maximum Likelihood Estimation | 7.5 in text; 2.1 & 2.2 in notes|  |
 |Week 3| 2/6 & 2/8  | MLE Properties & Method of Moments | 7.5, 7.6 in text; 2.2 & 2.3 in notes |  |
 |Week 4| 2/13 & 2/15 | Method of Moments, Bayesian Estimation & Exam 1| 7.1-4 in text;  2.3, 3.1, 3.2 in notes |  |
