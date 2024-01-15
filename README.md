@@ -64,8 +64,8 @@ Every 4 weeks you will receive an assessment of your engagement and participatio
 |Week 1| 1/23 & 1/25 | Intro, Review & Master Formulas | Review Handout; Section 1 in notes |  |
 |Week 2| 1/30 & 2/1  | Maximum Likelihood Estimation | 7.5 in text; 2.1 & 2.2 in notes|  |
 |Week 3| 2/6 & 2/8  | MLE Properties & Method of Moments | 7.5, 7.6 in text; 2.2 & 2.3 in notes |  |
-|Week 4| 2/13 & 2/15 | Method of Moments, Bayesian Estimation & Exam 1| 7.1-4 in text;  2.3, 3.1, 3.2 in notes | Exam 1 - 2/15 |
-|Week 5| 2/20 & 2/20 | Bayesian Estimation & Sufficiency | 7.1-4, 7.7 in text; 3.2, 4.1, 4.2 in notes |  |
+|Week 4| 2/13 & 2/15 | Method of Moments, Bayesian Estimation | 7.1-4 in text;  2.3, 3.1, 3.2 in notes |  |
+|Week 5| 2/20 & 2/22 | Bayesian Estimation, Sufficiency & Exam 1| 7.1-4, 7.7 in text; 3.2, 4.1, 4.2 in notes | Exam 1 - 2/22 |
 |Week 6| 2/27 & 2/29 | Sufficiency, Admissibility, & Rao-Blackwellization | 7.7-9 in text, 4.3, 4.4 in notes |  |
 |Week 7| 3/5 & 3/7 |  Unbiasedness & MSE | 8.7 in text; 5.1, 5.2 in notes | |
 |Week 8 (Spring Break)| 3/11-3/15 | Have fun! | |  |
