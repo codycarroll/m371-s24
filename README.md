@@ -52,7 +52,7 @@ Our Github website can be found at: https://github.com/codycarroll/m371-s24/blob
 Every 4 weeks you will receive an assessment of your engagement and participation in class. Participation is evaluated with the following rubric:
 
 
-|Engagement Level | Description | Score (out of 5) |
+|Engagement Level | Description | Score (X/5) |
 | :---:  | :---:  | :---: |
 |Fully engaged and present|Showing up to class consistently; Participating in class activities; offering questions and comments during lecture; regularly attending office hours; offering answers and alternate solutions (at the board/or socratically) in reponse to class discussions and other students’ questions; Working with classmates outside of meeting times| 5 (Excellent)|
 |Keeping it together|Showing up to class with occasional absence; By and large partici- pates in classroom activities; Decently vocal in discussions & sometimes asks/answers questions; occasionally attends office hours & works with other students| 3-4 (Satisfactory)|
