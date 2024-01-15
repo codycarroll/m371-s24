@@ -59,7 +59,7 @@ Every 4 weeks you will receive an assessment of your engagement and participatio
 |Checked out | Sporadically or infrequently in class; Rarely volunteers thoughts, questions, solutions for the class; Hard to get ahold of; Never attends office hours; Does not engage with other students| 0-2 (Needs to improve)|
 
 ## Schedule
-
+*subject to change
 |Week | Dates | Topics | Reading | Notable Events |
 | :---:  | :---:  | :---:  | :---:  | :---: |
 |Week 1| 1/23 & 1/25 | Intro, Review & Master Formulas | Review Handout; Section 1 in notes |  |
