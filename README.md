@@ -7,7 +7,7 @@
 
 **Class Time**: TR 4:35-6:20p in LS 209
 
-**Office Hours**:  M 11a-12p on [Zoom](https://usfca.zoom.us/my/cody.carroll) and W 1:45p-2:45p in the Hive (Harney Engineering area)
+**Office Hours**:  M 11a-12p on [Zoom](https://usfca.zoom.us/my/cody.carroll) and W 1:45p-2:45p in the Hive (Harney Engineering area), starts Week 2
 
 **Book**: Probability and Statistics (Fourth Edition) by Degroot & Schervish
 
