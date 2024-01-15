@@ -4,7 +4,7 @@ math stats s24
 
 |Week | Dates | Topics | Reading | Exam Date |
 | :---  | :---:  | :---:  | :---:  | :---: |
-|Week 1| 1/23 & 1/25 | Intro & Review | |  |
+|Week 1| 1/23 & 1/25 | Intro, Review & Master Formulas | |  |
 |Week 2| 1/30 & 2/1  | Maximum Likelihood Estimation | |  |
 |Week 3| 2/6 & 2/8  | MLE Properties & Method of Moments | |  |
 |Week 4| 2/13 & 2/15 | Method of Moments, Bayesian Estimation & Exam 1| |  |
