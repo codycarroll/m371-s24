@@ -54,8 +54,7 @@ Every 4 weeks you will receive an assessment of your engagement and participatio
 
 |Engagement Level | Description | Score (out of 5) |
 | :---:  | :---:  | :---: |
-|Fully engaged and present|Showing up to class consistently; Participating in class activities; offering questions and comments during lecture; regularly attending office hours; offering answers and alternate solutions (at the board/or socratically) in reponse to class discussions and other students’ questions; Working with classmates outside of meeting times| 
- 5 (Excellent)|
+|Fully engaged and present|Showing up to class consistently; Participating in class activities; offering questions and comments during lecture; regularly attending office hours; offering answers and alternate solutions (at the board/or socratically) in reponse to class discussions and other students’ questions; Working with classmates outside of meeting times| 5 (Excellent)|
 |Keeping it together|Showing up to class with occasional absence; By and large partici- pates in classroom activities; Decently vocal in discussions & sometimes asks/answers questions; occasionally attends office hours & works with other students| 3-4 (Satisfactory)|
 |Checked out | Sporadically or infrequently in class; Rarely volunteers thoughts, questions, solutions for the class; Hard to get ahold of; Never attends office hours; Does not engage with other students| 0-2 (Needs to improve)|
 
