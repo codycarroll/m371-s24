@@ -43,7 +43,7 @@ Our Github website can be found at: https://github.com/codycarroll/m371-s24/blob
 - _No late homework will be accepted._
 
 **Exams (60%)**
-- There will be 3 exams, tentatively scheduled for 2/15, 3/26, and 5/2. Dates may be subject to change. 
+- There will be 3 exams, tentatively scheduled for 2/22, 3/26, and 5/2. Dates may be subject to change. 
 - No make-up or early exams will be given in order to ensure fairness and integrity of the class. Missing an exam without proper documentation of a personal illness or family emergency will result in a score of zero for that exam. Any documentation must be submitted to the instructor before the exam in question at the student’s earliest convenience.
 
 **In Class Participation (20%)**
