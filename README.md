@@ -20,7 +20,7 @@ This is a mathematical statistics course. The topics we aim to cover will includ
 - Bayesian Methods
 - Sufficiency, Efficiency, and Fisher Information
 - Modes of Convergence & Asymptotic Theorems (Slutsky, Continuous Mapping, the Delta Method)
-- Likelihood Ratio Tests & Properties
+- Likelihood Ratio Tests & Properties (if time permits)
 
 ## Course Tenets:
 
