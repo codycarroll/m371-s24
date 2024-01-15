@@ -13,8 +13,8 @@
 |Week 8 (Spring Break)| 3/11-3/15 | Have fun! | |  |
 |Week 9| 3/19 & 3/21 | Fisher Information & the Cramer-Rao Lower Bound| 8.8 in text; Section 6 in notes |  |
 |Week 10| 3/26 & 3/28 | Exam 2 & UMVUEs | Section 6 in notes | Exam 2 - 3/26 |
-|Week 11| 4/2 & 4/4 | Sampling Distribution & Modes of Convergence| 8.1 in text; Section 7 in notes |  |
-|Week 12| 4/9 & 4/11 | t / &chi;2 / F distributions & Slutsky's Theorem| 8.2-8.4, 9.7 in text; Section 7 in notes |  |
+|Week 11| 4/2 & 4/4 | Sampling Distribution & Modes of Convergence| 8.1 in text; Section 7 in notes | Thursday, April 4th - Remote class - online lecture |
+|Week 12| 4/9 & 4/11 | t / &chi;2 / F distributions & Slutsky's Theorem| 8.2-8.4, 9.7 in text; Section 7 in notes | Tuesday, April 9th - "Field Trip"  |
 |Week 13| 4/16 & 4/18 |Continuous Mapping Theorem, Delta Method | Section 7 in notes |  |
 |Week 14| 4/23 & 4/25 | Interval Estimation, Pivots, Credible Intervals | 8.5 in text; Section 8 in notes |  |
 |Week 15| 4/30 & 5/2 | Likelihood Ratio Tests & Exam 3 | 9.1 in text | Exam 3 - 5/2 |
