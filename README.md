@@ -15,7 +15,7 @@
 
 ## Material Covered: 
 
-The topics we aim to cover will include:
+This is a mathematical statistics course. The topics we aim to cover will include:
 - Point and Interval Estimation (MLEs, Method of Moments, Pivots)
 - Bayesian Methods
 - Sufficiency, Efficiency, and Fisher Information
