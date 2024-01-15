@@ -1,8 +1,64 @@
 # M371 - Statistics & Applications
 
 
+## Cody Carroll
+
+**Email**: cjcarroll@usfca.edu
+
+**Class Time**: TR 4:35-6:20p in LS 209
+
+**Office Hours**:  M 11a-12p on [Zoom](https://usfca.zoom.us/my/cody.carroll) and W 1:45p-2:45p in the Hive (Harney Engineering area)
+
+**Book**: Probability and Statistics (Fourth Edition) by Degroot & Schervish
+
+**Syllabus**: [Link](https://github.com/codycarroll/m371-s24/blob/main/syllabus/M371-S24-Syllabus.pdf)
+
+**Material Covered:**
+The topics we aim to cover will include:
+■ Point and Interval Estimation (MLEs, Method of Moments, Pivots)
+■ Bayesian Methods
+■ Sufficiency, Efficiency, and Fisher Information
+■ Modes of Convergence
+■ Convergence Theorems
+■ Likelihood Ratio Tests
+
+**Course Tenets**
+When in doubt, rely on the following:
+■ Put the work in & ask for help when stuck.
+■ Ask questions before spiraling.
+■ When confused, work with a partner & zoom into details.
+■ When you understand, teach others & zoom out to debrief.
+■ Use common sense whenever possible.
+
+**Course Website**
+The class will be using Canvas & Github to distribute all resources.
+Our Github website can be found at: https://github.com/codycarroll/m371-s24/blob/main/README.md .
+
+### Assessment
+
+**Homework (20%)**
+■ Students are encouraged to discuss and work together on assignments, but each student must turn in their own original work. **If there is evidence that the work turned in is not original work, which includes copying another student’s homework or using any solutions found online, all credit for that homework set will be forfeited. Homework is not to be posted to online help sites. These sites will be checked frequently.**
+■ No late homework will be accepted.
+
+**Exams (60%)**
+■ There will be 3 exams, tentatively scheduled for 2/15, 3/26, and 5/2. Dates may be subject to change. 
+■ No make-up or early exams will be given in order to ensure fairness and integrity of the class. Missing an exam without proper documentation of a personal illness or family emergency will result in a score of zero for that exam. Any documentation must be submitted to the instructor before the exam in question at the student’s earliest convenience.
+
+**In Class Participation (20%)**
+Every 4 weeks you will receive an assessment of your engagement and participation in class. Participation is evaluated with the following rubric:
+
+
+|Engagement Level | Description | | Score (out of 5) |
+| :---:  | :---:  | :---: |
+|Fully engaged and present|Showing up to class consistently; Participating in class activities; offering questions and comments during lecture; regularly attending office hours; offering answers and alternate solutions (at the board/or socratically) in reponse to class discussions and other students’ questions; Working with classmates outside of meeting times| 
+ 5 (Excellent)|
+|Keeping it together|Showing up to class with occasional absence; By and large partici- pates in classroom activities; Decently vocal in discussions & sometimes asks/answers questions; occasionally attends office hours & works with other students| 3-4 (Satisfactory)|
+|Checked out | Sporadically or infrequently in class; Rarely volunteers thoughts, questions, solutions for the class; Hard to get ahold of; Never attends office hours; Does not engage with other students| 0-2 (Needs to improve)|
+
+**Schedule**
+
 |Week | Dates | Topics | Reading | Notable Events |
-| :---  | :---:  | :---:  | :---:  | :---: |
+| :---:  | :---:  | :---:  | :---:  | :---: |
 |Week 1| 1/23 & 1/25 | Intro, Review & Master Formulas | Review Handout; Section 1 in notes |  |
 |Week 2| 1/30 & 2/1  | Maximum Likelihood Estimation | 7.5 in text; 2.1 & 2.2 in notes|  |
 |Week 3| 2/6 & 2/8  | MLE Properties & Method of Moments | 7.5, 7.6 in text; 2.2 & 2.3 in notes |  |
