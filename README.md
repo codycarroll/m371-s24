@@ -48,6 +48,7 @@ Our Github website can be found at: https://github.com/codycarroll/m371-s24/blob
 - No make-up or early exams will be given in order to ensure fairness and integrity of the class. Missing an exam without proper documentation of a personal illness or family emergency will result in a score of zero for that exam. Any documentation must be submitted to the instructor before the exam in question at the student’s earliest convenience.
 
 **In Class Participation (20%)**
+
 Every 4 weeks you will receive an assessment of your engagement and participation in class. Participation is evaluated with the following rubric:
 
 
