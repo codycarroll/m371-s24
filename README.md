@@ -15,20 +15,20 @@
 
 **Material Covered:**
 The topics we aim to cover will include:
-■ Point and Interval Estimation (MLEs, Method of Moments, Pivots)
-■ Bayesian Methods
-■ Sufficiency, Efficiency, and Fisher Information
-■ Modes of Convergence
-■ Convergence Theorems
-■ Likelihood Ratio Tests
+- Point and Interval Estimation (MLEs, Method of Moments, Pivots)
+- Bayesian Methods
+- Sufficiency, Efficiency, and Fisher Information
+- Modes of Convergence
+- Convergence Theorems
+- Likelihood Ratio Tests
 
 **Course Tenets**
 When in doubt, rely on the following:
-■ Put the work in & ask for help when stuck.
-■ Ask questions before spiraling.
-■ When confused, work with a partner & zoom into details.
-■ When you understand, teach others & zoom out to debrief.
-■ Use common sense whenever possible.
+- Put the work in & ask for help when stuck.
+- Ask questions before spiraling.
+- When confused, work with a partner & zoom into details.
+- When you understand, teach others & zoom out to debrief.
+- Use common sense whenever possible.
 
 **Course Website**
 The class will be using Canvas & Github to distribute all resources.
@@ -37,18 +37,19 @@ Our Github website can be found at: https://github.com/codycarroll/m371-s24/blob
 ### Assessment
 
 **Homework (20%)**
-■ Students are encouraged to discuss and work together on assignments, but each student must turn in their own original work. **If there is evidence that the work turned in is not original work, which includes copying another student’s homework or using any solutions found online, all credit for that homework set will be forfeited. Homework is not to be posted to online help sites. These sites will be checked frequently.**
-■ No late homework will be accepted.
+- Students are encouraged to discuss and work together on assignments, but each student must turn in their own original work. **If there is evidence that the work turned in is not original work, which includes copying another student’s homework or using any solutions found online, all credit for that homework set will be forfeited. Homework is not to be posted to online help sites. These sites will be checked frequently.**
+  
+- _No late homework will be accepted._
 
 **Exams (60%)**
-■ There will be 3 exams, tentatively scheduled for 2/15, 3/26, and 5/2. Dates may be subject to change. 
-■ No make-up or early exams will be given in order to ensure fairness and integrity of the class. Missing an exam without proper documentation of a personal illness or family emergency will result in a score of zero for that exam. Any documentation must be submitted to the instructor before the exam in question at the student’s earliest convenience.
+- There will be 3 exams, tentatively scheduled for 2/15, 3/26, and 5/2. Dates may be subject to change. 
+- No make-up or early exams will be given in order to ensure fairness and integrity of the class. Missing an exam without proper documentation of a personal illness or family emergency will result in a score of zero for that exam. Any documentation must be submitted to the instructor before the exam in question at the student’s earliest convenience.
 
 **In Class Participation (20%)**
 Every 4 weeks you will receive an assessment of your engagement and participation in class. Participation is evaluated with the following rubric:
 
 
-|Engagement Level | Description | | Score (out of 5) |
+|Engagement Level | Description | Score (out of 5) |
 | :---:  | :---:  | :---: |
 |Fully engaged and present|Showing up to class consistently; Participating in class activities; offering questions and comments during lecture; regularly attending office hours; offering answers and alternate solutions (at the board/or socratically) in reponse to class discussions and other students’ questions; Working with classmates outside of meeting times| 
  5 (Excellent)|
