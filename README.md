@@ -22,6 +22,20 @@ This is a mathematical statistics course. The topics we aim to cover will includ
 - Modes of Convergence & Asymptotic Theorems (Slutsky, Continuous Mapping, the Delta Method)
 - Likelihood Ratio Tests & Properties (if time permits)
 
+## Course Learning Objectives:
+
+By the end of this course, you will be able to:
+
+- critically evaluate and apply theoretical concepts in statistical inference, honing your ability to engage with advanced statistical research and methodology.
+
+- understand and apply methods in point and interval estimation, including properties of estimators like unbiasedness, efficiency, sufficiency, and consistency.
+
+- create and analyze statistical models using Bayesian approaches in statistics including prior and posterior distributions, conjugate distributions, and Bayesian inference.
+
+- prove asymptotic results using different modes of convergence in probability theory, such as convergence in probability, almost sure convergence, convergence in distribution, and their extensions like the continuous mapping theorem and the Delta method.
+
+- construct and apply likelihood ratio tests, emphasizing both their theoretical properties and practical applications (if time permits).
+
 ## Course Tenets:
 
 When in doubt, rely on the following:
