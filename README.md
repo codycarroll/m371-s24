@@ -69,7 +69,7 @@ Every 4 weeks you will receive an assessment of your engagement and participatio
 | :---:  | :---:  | :---: |
 |Fully engaged and present| - Showing up to class consistently; - Participating in class activities; - offering questions and comments during lecture; - regularly attending office hours; - offering answers and alternate solutions (at the board/or socratically) in reponse to class discussions and other students’ questions; - working with classmates outside of meeting times| 5 (Excellent)|
 |Keeping it together| - Showing up to class with occasional absence; - By and large participates in classroom activities; - decently vocal in discussions & sometimes asks/answers questions; - occasionally attends office hours & works with other students| 3-4 (Satisfactory)|
-|Checked out | - Sporadically or infrequently in class; - rarely volunteers thoughts, questions, solutions for the class; - hard to get ahold of; - never attends office hours; - does not engage with other students or instructor| 0-2 (Needs to improve)|
+|Checked out | - Sporadically or infrequently in class; - rarely volunteers thoughts, questions, solutions for the class; - hard to get ahold of; - rarely or never attends office hours; - does not engage with other students or instructor| 0-2 (Needs to improve)|
 
 ## Schedule
 *subject to change
