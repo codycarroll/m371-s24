@@ -75,7 +75,7 @@ Every 4 weeks you will receive an assessment of your engagement and participatio
 *subject to change
 |Week | Dates | Topics | Reading | Notable Events |
 | :---:  | :---:  | :---:  | :---:  | :---: |
-|Week 1| 1/23 & 1/25 | Intro, Probability Review | Review Handout; Section 1 in notes |  |
+|Week 1| 1/23 & 1/25 | Intro, Probability Review | Review Handout; Section 1 in notes | HW0 Due  |
 |Week 2| 1/30 & 2/1  | Maximum Likelihood Estimation | 7.5 in text; 2.1 & 2.2 in notes| HW1 Due |
 |Week 3| 2/6 & 2/8  | MLE Properties & Method of Moments | 7.5, 7.6 in text; 2.2 & 2.3 in notes |  |
 |Week 4| 2/13 & 2/15 | Method of Moments, Bayesian Estimation | 7.1-4 in text;  2.3, 3.1, 3.2 in notes | HW2 Due |
