@@ -76,14 +76,14 @@ Every 4 weeks you will receive an assessment of your engagement and participatio
 |Week | Dates | Topics | Reading | Notable Events |
 | :---:  | :---:  | :---:  | :---:  | :---: |
 |Week 1| 1/23 & 1/25 | Intro, Probability Review, Statistical Inference Fundamentals| Review Handout; Section 1 in notes | HW0 Due  |
-|Week 2| 1/30 & 2/1  | Maximum Likelihood Estimation | 7.5 in text; 2.1 & 2.2 in notes| HW1 Due |
+|Week 2| 1/30 & 2/1  | Maximum Likelihood Estimation | 7.5 in text; 2.1 & 2.2 in notes| [HW1 Due](https://github.com/codycarroll/m371-s24/blob/main/hw/HW1.pdf) |
 |Week 3| 2/6 & 2/8  | MLE Properties & Method of Moments | 7.5, 7.6 in text; 2.2 & 2.3 in notes |  |
-|Week 4| 2/13 & 2/15 | Method of Moments, Bayesian Estimation | 7.1-4 in text;  2.3, 3.1, 3.2 in notes | HW2 Due |
+|Week 4| 2/13 & 2/15 | Method of Moments, Bayesian Estimation | 7.1-4 in text;  2.3, 3.1, 3.2 in notes | [HW2 Due](https://github.com/codycarroll/m371-s24/blob/main/hw/HW2.pdf) |
 |Week 5| 2/20 & 2/22 | Bayesian Estimation, Sufficiency & Exam 1| 7.1-4, 7.7 in text; 3.2, 4.1, 4.2 in notes | Exam 1 - 2/22 |
 |Week 6| 2/27 & 2/29 | Sufficiency | 7.7-9 in text, 4.3, 4.4 in notes |  |
-|Week 7| 3/5 & 3/7 |   Admissibility, & Rao-Blackwellization, Unbiasedness & MSE | 8.7 in text; 5.1, 5.2 in notes | HW3 Due|
+|Week 7| 3/5 & 3/7 |   Admissibility, & Rao-Blackwellization, Unbiasedness & MSE | 8.7 in text; 5.1, 5.2 in notes | [HW3 Due](https://github.com/codycarroll/m371-s24/blob/main/hw/HW3.pdf)|
 |Week 8 (Spring Break)| 3/11-3/15 | Have fun! | |  |
-|Week 9| 3/19 & 3/21 | Fisher Information & the Cramer-Rao Lower Bound| 8.8 in text; Section 6 in notes | HW4 Due |
+|Week 9| 3/19 & 3/21 | Fisher Information & the Cramer-Rao Lower Bound| 8.8 in text; Section 6 in notes | [HW4 Due](https://github.com/codycarroll/m371-s24/blob/main/hw/HW4.pdf)|
 |Week 10| 3/26 & 3/28 | Exam 2 & UMVUEs | Section 6 in notes | Exam 2 - 3/26 |
 |Week 11| 4/2 & 4/4 | Sampling Distribution & Modes of Convergence| 8.1 in text; Section 7 in notes | Thursday, April 4th - Remote class - online lecture |
 |Week 12| 4/9 & 4/11 | t- / &chi;2- / F- distributions & Slutsky's Theorem| 8.2-8.4, 9.7 in text; Section 7 in notes | Tuesday, April 9th - "Field Trip"; HW5 Due  |
