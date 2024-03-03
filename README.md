@@ -90,4 +90,4 @@ Every 4 weeks you will receive an assessment of your engagement and participatio
 |Week 13| 4/16 & 4/18 |Continuous Mapping Theorem, The Delta Method | Section 7 in notes |  |
 |Week 14| 4/23 & 4/25 | Interval Estimation, Pivots, Credible Intervals | 8.5 in text; Section 8 in notes | HW6 Due |
 |Week 15| 4/30 & 5/2 | Likelihood Ratio Tests & Exam 3 | 9.1 in text | Exam 3 - 5/2 |
-|Week 16| 5/7 & 5/9 | LRTs, the Neymann-Pearson Lemma, & UMP tests| 9.2-3 in text|  |
+|Week 16| 5/7 & 5/9 | LRTs, the Neymann-Pearson Lemma, & UMP tests| 9.2-3 in text| HW 7 Due |
