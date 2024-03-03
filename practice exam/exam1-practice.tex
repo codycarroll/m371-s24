@@ -1,0 +1,129 @@
+\documentclass{exam}
+\usepackage{url,graphicx,tabularx,array,geometry,enumitem,amsmath,
+color,fullpage,datetime,caption,subcaption,float,mathtools}
+\begin{document}
+
+\def\bco{\iffalse}
+\newcommand{\bea}{\begin{eqnarray*}}
+\newcommand{\eea}{\end{eqnarray*}}
+\newcommand{\be}{\begin{eqnarray}}
+\newcommand{\ee}{\end{eqnarray}}
+\newcommand{\bsp}{\begin{split}}
+\newcommand{\esp}{\end{split}}
+\newcommand{\ed}{\end{document}}
+\newcommand{\no}{\noindent}
+\newcommand{\ben}{\begin{enumerate}}
+\newcommand{\een}{\end{enumerate}}
+\newcommand{\bena}{\begin{enumerate}[label = \alph*)]}
+
+\centerline{\bf \sc \LARGE Exam 1 - Practice Questions}
+\vspace{.5pc}
+
+\vspace{1cm}
+
+\textbf{Rules:} 
+
+\begin{itemize}
+
+%\item You may start the quiz anytime between 9pm on Wednesday to 8pm Thursday (Pacific Standard Time) on the announced Wednesday date that varies for each quiz. 
+
+
+
+\item Show all your work and reasoning how you arrive at your answer. Just writing an answer is not sufficient for most problems. 
+
+\item When in doubt, \textit{draw the picture!!!}
+
+\end{itemize} 
+
+
+\bco
+
+
+$$ \begin{aligned}
+\textbf{Name}&: \rule{5cm}{0.15mm} \\\\
+\textbf{ID}&: \rule{5cm}{0.15mm}
+\end{aligned} $$
+
+\fi
+
+\vspace{.1in}
+
+
+\textbf{Problems:} 
+
+\begin{enumerate}
+
+%\item Suppose that $X_1, \dots, X_n$ form a random sample from a distribution for which the p.d.f. $f(x|\theta)$ is as follows:
+%$$ f(x|\theta) = \begin{cases}
+%						\theta x^{\theta - 1} &\mbox{for } 0 < x < 1, \\
+%						0 &\mbox{otherwise. }
+%					  \end{cases} $$
+%Also, suppose the value of $\theta$ is unknown,  and satisfies  $\theta>0$.
+%\begin{enumerate}[label = \alph*)]
+%\item Determine the joint p.d.f. of $X_1, \dots, X_n$.
+%\item Find the MLE of $\theta$.
+%\item  Find the MLE of $\theta^2$.
+%\end{enumerate}
+
+
+\item Let $X_1, \dots, X_n$ be a random sample from a uniform distribution U$[-1,\theta]$, where $\theta > -1.$
+\begin{enumerate}[label = \alph*)]
+\item Obtain the MLE for $EX_1$.
+\item Obtain the MLE for var$(X_1)$.
+\item Obtain two Method of Moments estimators for var$(X_1)$.
+\item Now suppose we know that $\theta \ge 0.$ Obtain the MLE for $\theta$.
+
+\een 
+
+%\item In a study we record the number of Covid-19 infections for each of 100 counties on the West Coast of the United States on Jan. 20, 2021.  
+%Assume that these numbers are iid and follow a Poisson distribution with parameter $\lambda$. 
+%
+%\bena
+%
+%\item Write the likelihood function (not log likelihood) for $\lambda$. Derive it step by step and  provide the arguments that are used in its derivation.   
+%\item Obtain two Method of Moments estimators for the standard deviation of this distribution. 
+%\item Obtain the MLE for the standard deviation and compare it with the two Method of Moments estimators. 
+%
+%\een
+
+
+
+\item You participate in a study that aims to develop a new vaccine to protect against Covid-19 infection. The new vaccine has been applied in two independent trials. The first 
+trial has led to a sample of size $n$  from a Bernoulli$(\theta_1)$ model and the second trial to a sample of size $m$ from a Bernoulli$(\theta_2)$ model, where $\theta_1, \theta_2$ are the success probabilities that the vaccine is effective. 
+
+\bena
+
+\item Obtain the MLEs $\hat\theta_1, \hat\theta_2$ for $\theta_1, \theta_2$.
+\item Provide arguments why $\theta_1, \theta_2$ might be the same or might be different. 
+What about $\hat\theta_1, \hat\theta_2$?
+\item It is now assumed that  $\theta_1=\theta_2$. Calculate 
+var$(\hat\theta_1)$, var$(\hat\theta_2)$.
+\item Under this assumption, a scientist suggests to combine the two MLEs in a suitable way to obtain an improved estimator that takes all of the available information into account.  
+For that, one considers combinations $\hat{\theta}_c=c \hat\theta_1 + (1-c) \hat\theta_2$ for $0 \le c \le 1.$
+Find the best $c$ such that var$(\hat{\theta}_c)$  is minimized. 
+
+\een
+
+
+
+\item  Consider a sample of size $n$ from an exponential distribution with parameter $\beta>0.$  Assume the r.v. $X$ has this distribution. 
+
+\bena
+\item Find a method of moments estimator for $\beta.$
+\item Find a method of moments estimator for $P(0 \le X \le 2).$
+\item Find a method of moments estimator for the median of the distribution. 
+
+\een
+\een
+\ed
+
+
+
+
+\end{enumerate}
+
+
+\end{enumerate}
+
+
+\end{document}
