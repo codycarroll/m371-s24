@@ -87,7 +87,7 @@ Every 4 weeks you will receive an assessment of your engagement and participatio
 |Week 10| 3/26 & 3/28 | Exam 2 & UMVUEs | Section 6 in notes | Exam 2 - 3/26 |
 |Week 11| 4/2 & 4/4 | Sampling Distribution & Modes of Convergence| 8.1 in text; Section 7 in notes | Thursday, April 4th -  "Field Trip"|
 |Week 12| 4/9 & 4/11 | t- / &chi;2- / F- distributions & Slutsky's Theorem| 8.2-8.4, 9.7 in text; Section 7 in notes | Tuesday, April 9th - Remote class - online lecture; HW5 Due  |
-|Week 13| 4/16 & 4/18 |Continuous Mapping Theorem, The Delta Method | Section 7 in notes |  |
-|Week 14| 4/23 & 4/25 | Interval Estimation, Pivots, Credible Intervals | 8.5 in text; Section 8 in notes | HW6 Due |
-|Week 15| 4/30 & 5/2 | Likelihood Ratio Tests & Exam 3 | 9.1 in text | Exam 3 - 5/2 |
-|Week 16| 5/7 & 5/9 | LRTs, the Neymann-Pearson Lemma, & UMP tests| 9.2-3 in text| HW 7 Due |
+|Week 13| 4/16 & 4/18 |t- / &chi;2- / F- distributions, Continuous Mapping Theorem, The Delta Method | Section 7 in notes |  |
+|Week 14| 4/23 & 4/25 | Interval Estimation, Pivots, Confidence Intervals | 8.5 in text; Section 8 in notes | HW6 Due |
+|Week 15| 4/30 & 5/2 |   Credible Intervals & Exam 3 | 9.1 in text | Exam 3 - 5/2 |
+|Week 16| 5/7 & 5/9 | Catch up + Debrief Week| 9.2-3 in text| HW 7 Due |
